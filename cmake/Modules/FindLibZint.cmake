@@ -48,6 +48,6 @@ endif()
 include(FindPackageHandleStandardArgs)
 find_package_handle_standard_args(LibZint
                                   REQUIRED_VARS LIBZINT_LIBRARY LIBZINT_INCLUDE_DIR
-                                  VERSION_VAR LIBZINT_VERSION_STRING)
+                                  VERSION_VAR "2.4.2")
 
 mark_as_advanced(LIBZINT_INCLUDE_DIR LIBZINT_LIBRARY)
