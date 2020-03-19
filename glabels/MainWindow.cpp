@@ -127,7 +127,7 @@ namespace glabels
 		mPropertiesButton->setSizePolicy( QSizePolicy::MinimumExpanding,
 		                                  QSizePolicy::Preferred );
 		mPropertiesAction = mContents->addWidget( mPropertiesButton );
-		group->addButton( mPropertiesButton );
+        group->addButton( mPropertiesButton );
 
 		// Add "Merge" page
 		mPages->addWidget( mergePage );
@@ -138,8 +138,8 @@ namespace glabels
 		mMergeButton->setCheckable( true );
 		mMergeButton->setSizePolicy( QSizePolicy::MinimumExpanding,
 		                             QSizePolicy::Preferred );
-		mMergeAction = mContents->addWidget( mMergeButton );
-		group->addButton( mMergeButton );
+        mMergeAction = mContents->addWidget( mMergeButton );
+        group->addButton( mMergeButton );
 
 		// Add "Print" page
 		mPages->addWidget( printPage );
@@ -150,8 +150,8 @@ namespace glabels
 		mPrintButton->setCheckable( true );
 		mPrintButton->setSizePolicy( QSizePolicy::MinimumExpanding,
 		                             QSizePolicy::Preferred );
-		mPrintAction = mContents->addWidget( mPrintButton );
-		group->addButton( mPrintButton );
+        mPrintAction = mContents->addWidget( mPrintButton );
+        group->addButton( mPrintButton );
 
 		// Set initial page selection
 		mWelcomeButton->setChecked( true );
@@ -174,8 +174,8 @@ namespace glabels
 		// Connect
 		connect( mEditorButton, SIGNAL(toggled(bool)), this, SLOT(changePage(bool)));
 		connect( mPropertiesButton, SIGNAL(toggled(bool)), this, SLOT(changePage(bool)));
-		connect( mMergeButton, SIGNAL(toggled(bool)), this, SLOT(changePage(bool)));
-		connect( mPrintButton, SIGNAL(toggled(bool)), this, SLOT(changePage(bool)));
+        connect( mMergeButton, SIGNAL(toggled(bool)), this, SLOT(changePage(bool)));
+        connect( mPrintButton, SIGNAL(toggled(bool)), this, SLOT(changePage(bool)));
 		connect( mLabelEditor, SIGNAL(zoomChanged()), this, SLOT(onZoomChanged()) );
 		connect( model::Settings::instance(), SIGNAL(changed()), this, SLOT(onSettingsChanged()) );
 		connect( QApplication::clipboard(), SIGNAL(dataChanged()), this, SLOT(clipboardChanged()) );
@@ -857,9 +857,9 @@ namespace glabels
 		// Toggle visibility of TOC buttons based on welcome mode
 		mWelcomeAction->setVisible( isWelcomePage );
 		mEditorAction->setVisible( !isWelcomePage );
-		mPropertiesAction->setVisible( !isWelcomePage );
-		mMergeAction->setVisible( !isWelcomePage );
-		mPrintAction->setVisible( !isWelcomePage );
+        mPropertiesAction->setVisible( false);
+        mMergeAction->setVisible( false );
+        mPrintAction->setVisible( !isWelcomePage );
 
 		// Recent file actions
 		QStringList recentFileList = model::Settings::recentFileList();

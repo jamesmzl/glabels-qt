@@ -37,9 +37,41 @@
 #include <QTranslator>
 #include <QtDebug>
 
+#include <stdio.h>
+#include <stdlib.h>
+
+FILE * pFile;
+
+void myMessageOutput(QtMsgType type, const QMessageLogContext &context, const QString &msg)
+{
+    QByteArray localMsg = msg.toLocal8Bit();
+    const char *file = context.file ? context.file : "";;
+    const char *function = context.function ? context.function : "";
+    switch (type) {
+    case QtDebugMsg:
+        fprintf(pFile, "Debug: %s (%s:%u, %s)\n", localMsg.constData(), file, context.line, function);
+        break;
+    case QtInfoMsg:
+        fprintf(pFile, "Info: %s (%s:%u, %s)\n", localMsg.constData(), file, context.line, function);
+        break;
+    case QtWarningMsg:
+        fprintf(pFile, "Warning: %s (%s:%u, %s)\n", localMsg.constData(), file, context.line, function);
+        break;
+    case QtCriticalMsg:
+        fprintf(pFile, "Critical: %s (%s:%u, %s)\n", localMsg.constData(), file, context.line, function);
+        break;
+    case QtFatalMsg:
+        fprintf(pFile, "Fatal: %s (%s:%u, %s)\n", localMsg.constData(), file, context.line, function);
+        break;
+    }
+    fflush (pFile);
+}
 
 int main( int argc, char **argv )
 {
+    const char * fname = QDateTime::currentDateTime().toString("yyyy-MM-dd.log").toStdString().c_str();
+    pFile = fopen (fname, "a");
+    qInstallMessageHandler(myMessageOutput);
 	QApplication app( argc, argv );
 
 	QCoreApplication::setOrganizationName( "glabels.org" );
@@ -121,6 +153,6 @@ int main( int argc, char **argv )
 		mainWindow->show();
 	}
 
-	
+    qDebug() << "Batch mode.  printer =";
 	return app.exec();
 }

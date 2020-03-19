@@ -71,6 +71,8 @@ namespace glabels
 			int nItems() const;
 			int nPages() const;
 			QRectF pageRect() const;
+            void print( QPrinter* printer, QString  ) const;
+            void printBmp(QString filename) const;
 			void print( QPrinter* printer ) const;
 			void printPage( QPainter* painter ) const;
 			void printPage( QPainter* painter, int iPage ) const;

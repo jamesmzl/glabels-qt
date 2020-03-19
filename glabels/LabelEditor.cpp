@@ -67,7 +67,7 @@ namespace glabels
 
 		const QColor  gridLineColor( 192, 192, 192 );
 		const double  gridLineWidthPixels = 1;
-		const model::Distance gridSpacing = model::Distance::pt(9); // TODO: determine from locale.
+        const model::Distance gridSpacing = model::Distance::pt(37.5); // TODO: determine from locale.
 
 		const QColor  markupLineColor( 240, 99, 99 );
 		const double  markupLineWidthPixels = 1;

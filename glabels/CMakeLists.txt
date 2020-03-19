@@ -17,6 +17,7 @@ set (glabels_sources
   ColorSwatch.cpp
   Cursors.cpp
   FieldButton.cpp
+  fieldbuttons.cpp
   File.cpp
   Help.cpp
   Icons.cpp
@@ -53,6 +54,7 @@ set (glabels_qobject_headers
   ColorPaletteItem.h
   ColorPaletteButtonItem.h
   FieldButton.h
+  fieldbuttons.h
   File.h
   LabelEditor.h
   MainWindow.h
@@ -74,6 +76,7 @@ set (glabels_qobject_headers
 set (glabels_forms
   ui/AboutDialog.ui
   ui/MergeView.ui
+  ui/fieldbuttons.ui
   ui/ObjectEditor.ui
   ui/PreferencesDialog.ui
   ui/PrintView.ui

@@ -25,13 +25,15 @@
 namespace glabels
 {
 	namespace model
-	{
-
+	{    
 		const double PTS_PER_PT    =  1.0;
-		const double PTS_PER_INCH  = 72.0;
-		const double PTS_PER_MM    =  2.83464566929;
+        //const double PTS_PER_INCH  = 72.0;
+        const double PTS_PER_INCH = 300.0;             /**< Points per inch. */
+        //const double PTS_PER_MM    =  2.83464566929;
+        const double PTS_PER_MM   =  11.811023622047;           /**< Points per millimeter. */
 		const double PTS_PER_CM    =  (10.0*PTS_PER_MM);
-		const double PTS_PER_PICA  =  12.0;
+        //const double PTS_PER_PICA  =  12.0;
+        const double PTS_PER_PICA  =  50.0;
 
 		const Distance EPSILON( 0.5, Units::PT );
 	}

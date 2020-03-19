@@ -26,6 +26,7 @@
 
 #include "model/Model.h"
 #include "model/ModelObject.h"
+#include "fieldbuttons.h"
 
 #include <QButtonGroup>
 
@@ -114,6 +115,7 @@ namespace glabels
 	
 		QButtonGroup*            textHAlignGroup;
 		QButtonGroup*            textVAlignGroup;
+        FieldButtons*            options;
 
 		QString                  mImageCwd;
 

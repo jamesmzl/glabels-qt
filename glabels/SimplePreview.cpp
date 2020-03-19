@@ -130,9 +130,9 @@ namespace glabels
 			mScene->setSceneRect( x.pt(), y.pt(), w.pt(), h.pt() );
 			fitInView( mScene->sceneRect(), Qt::KeepAspectRatio );
 
-			drawPaper();
+            drawPaper();
 			drawLabels();
-			drawArrow();
+            drawArrow();
 		}
 	}
 

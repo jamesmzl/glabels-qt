@@ -5,26 +5,26 @@
     <name>AboutDialog</name>
     <message>
         <source>About gLabels</source>
-        <translation type="unfinished"></translation>
+        <translation>关于</translation>
     </message>
     <message>
         <source>&amp;License</source>
-        <translation type="unfinished"></translation>
+        <translation>许可</translation>
     </message>
     <message>
         <source>&amp;Website</source>
-        <translation type="unfinished"></translation>
+        <translation>网站</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭</translation>
     </message>
 </context>
 <context>
     <name>Color name</name>
     <message>
         <source>Light Scarlet Red</source>
-        <translation type="unfinished"></translation>
+        <translation>轻鲜红</translation>
     </message>
     <message>
         <source>Light Orange</source>
@@ -40,7 +40,7 @@
     </message>
     <message>
         <source>Light Sky Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>淡天蓝</translation>
     </message>
     <message>
         <source>Light Plum</source>
@@ -60,11 +60,11 @@
     </message>
     <message>
         <source>Scarlet Red</source>
-        <translation type="unfinished"></translation>
+        <translation>鲜红</translation>
     </message>
     <message>
         <source>Orange</source>
-        <translation type="unfinished">桔红</translation>
+        <translation>桔红</translation>
     </message>
     <message>
         <source>Butter</source>
@@ -76,11 +76,11 @@
     </message>
     <message>
         <source>Sky Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>天蓝</translation>
     </message>
     <message>
         <source>Plum</source>
-        <translation type="unfinished"></translation>
+        <translation>紫红</translation>
     </message>
     <message>
         <source>Chocolate</source>
@@ -136,7 +136,7 @@
     </message>
     <message>
         <source>Very Dark Gray</source>
-        <translation type="unfinished"></translation>
+        <translation>极深灰</translation>
     </message>
     <message>
         <source>Darker Gray</source>
@@ -148,7 +148,7 @@
     </message>
     <message>
         <source>Medium Gray</source>
-        <translation type="unfinished"></translation>
+        <translation>灰色</translation>
     </message>
     <message>
         <source>Light Gray</source>
@@ -156,407 +156,406 @@
     </message>
     <message>
         <source>Lighter Gray</source>
-        <translation type="unfinished"></translation>
+        <translation>轻灰色</translation>
     </message>
     <message>
         <source>Very Light Gray</source>
-        <translation type="unfinished"></translation>
+        <translation>极轻灰</translation>
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished">白色</translation>
+        <translation>白色</translation>
     </message>
 </context>
 <context>
     <name>Db</name>
     <message>
         <source>Other</source>
-        <translation type="unfinished">其它</translation>
+        <translation>其它</translation>
     </message>
 </context>
 <context>
     <name>Factory</name>
     <message>
         <source>None</source>
-        <translation type="unfinished">无</translation>
+        <translation>无</translation>
     </message>
     <message>
         <source>Text: Comma Separated Values (CSV)</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>Text: Comma Separated Values (CSV)</translation>
     </message>
     <message>
         <source>Text: Comma Separated Values (CSV), keys on line 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Text: Comma Separated Values (CSV), keys on line 1</translation>
     </message>
     <message>
         <source>Text: Tab Separated Values (TSV)</source>
-        <translation type="unfinished">文本：制表符分隔的值(TSV)</translation>
+        <translation>文本：制表符分隔的值(TSV)</translation>
     </message>
     <message>
         <source>Text: Tab Separated Values (TSV), keys on line 1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Text: Colon Separated Values</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Text: Colon Separated Values, keys on line 1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Text: Semicolon Separated Values</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Text: Semicolon Separated Values, keys on line 1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>Frame</name>
     <message>
         <source>%1 x %2 (%3 per sheet)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 x %2 (%3 每页)</translation>
     </message>
     <message>
         <source>%1 per sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 每页</translation>
     </message>
 </context>
 <context>
     <name>FrameCd</name>
     <message>
         <source>diameter</source>
-        <translation type="unfinished">直径</translation>
+        <translation>直径</translation>
     </message>
 </context>
 <context>
     <name>FrameRound</name>
     <message>
         <source>diameter</source>
-        <translation type="unfinished">直径</translation>
+        <translation>直径</translation>
     </message>
 </context>
 <context>
     <name>MergeView</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>从</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation type="unfinished">来源</translation>
+        <translation>来源</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>位置</translation>
     </message>
     <message>
         <source>Format:</source>
-        <translation type="unfinished">格式：</translation>
+        <translation>格式：</translation>
     </message>
     <message>
         <source>Location:</source>
-        <translation type="unfinished">位置：</translation>
+        <translation>位置：</translation>
     </message>
     <message>
         <source>Records</source>
-        <translation type="unfinished"></translation>
+        <translation>记录</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation type="unfinished">全选</translation>
+        <translation>全选</translation>
     </message>
     <message>
         <source>Unselect all</source>
-        <translation type="unfinished">取消全选</translation>
+        <translation>取消全选</translation>
     </message>
 </context>
 <context>
     <name>ObjectEditor</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>从</translation>
     </message>
     <message>
         <source>Object properties</source>
-        <translation type="unfinished">对象属性</translation>
+        <translation>对象属性</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished">文字</translation>
+        <translation>文字</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>布局</translation>
     </message>
     <message>
         <source>Alignment:</source>
-        <translation type="unfinished">对齐：</translation>
+        <translation>对齐：</translation>
     </message>
     <message>
         <source>Line spacing:</source>
-        <translation type="unfinished"></translation>
+        <translation>线间隔:</translation>
     </message>
     <message>
         <source>Wrap mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>换行模式:</translation>
     </message>
     <message>
         <source>Word</source>
-        <translation type="unfinished"></translation>
+        <translation>字</translation>
     </message>
     <message>
         <source>Anywhere</source>
-        <translation type="unfinished"></translation>
+        <translation>任意</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">无</translation>
+        <translation>无</translation>
     </message>
     <message>
         <source>Allow printing to shrink text to fit object</source>
-        <translation type="unfinished"></translation>
+        <translation>打印时允许压缩文字以便适应对象大小</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation type="unfinished"></translation>
+        <translation>字体</translation>
     </message>
     <message>
         <source>Family:</source>
-        <translation type="unfinished">系列：</translation>
+        <translation>字体：</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished">尺寸：</translation>
+        <translation>尺寸：</translation>
     </message>
     <message>
         <source>Style:</source>
-        <translation type="unfinished">规格：</translation>
+        <translation>样式：</translation>
     </message>
     <message>
         <source>Color:</source>
-        <translation type="unfinished">颜色：</translation>
+        <translation>颜色：</translation>
     </message>
     <message>
         <source>Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑框</translation>
     </message>
     <message>
         <source>Barcode</source>
-        <translation type="unfinished">条形码</translation>
+        <translation>条形码</translation>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished">规格</translation>
+        <translation>规格</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>类型:</translation>
     </message>
     <message>
         <source>Show text</source>
-        <translation type="unfinished"></translation>
+        <translation>显示文字</translation>
     </message>
     <message>
         <source>Checksum</source>
-        <translation type="unfinished">校验值</translation>
+        <translation>校验值</translation>
     </message>
     <message>
         <source>Barcode data</source>
-        <translation type="unfinished">空条形码数据</translation>
+        <translation>条形码数据</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">图片</translation>
+        <translation>图片</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>文件</translation>
     </message>
     <message>
         <source>Select File...</source>
-        <translation type="unfinished"></translation>
+        <translation>选择文件...</translation>
     </message>
     <message>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation>或</translation>
     </message>
     <message>
         <source>Select Merge Field...</source>
-        <translation type="unfinished"></translation>
+        <translation>选择参数名...</translation>
     </message>
     <message>
         <source>Line/Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>线条/填充</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished">线条</translation>
+        <translation>线条</translation>
     </message>
     <message>
         <source>Width:</source>
-        <translation type="unfinished">宽度：</translation>
+        <translation>宽度：</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished">填充</translation>
+        <translation>填充</translation>
     </message>
     <message>
         <source>Position/Size</source>
-        <translation type="unfinished"></translation>
+        <translation>位置/尺寸</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation type="unfinished">位置</translation>
+        <translation>位置</translation>
     </message>
     <message>
         <source>X:</source>
-        <translation type="unfinished">X:</translation>
+        <translation>X:</translation>
     </message>
     <message>
         <source>Y:</source>
-        <translation type="unfinished">Y:</translation>
+        <translation>Y:</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">尺寸</translation>
+        <translation>尺寸</translation>
     </message>
     <message>
         <source>Length:</source>
-        <translation type="unfinished">长度：</translation>
+        <translation>长度：</translation>
     </message>
     <message>
         <source>Angle:</source>
-        <translation type="unfinished">角度：</translation>
+        <translation>角度：</translation>
     </message>
     <message>
         <source>Original size:</source>
-        <translation type="unfinished"></translation>
+        <translation>原始尺寸:</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>重置</translation>
     </message>
     <message>
         <source>Lock aspect ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>锁定纵横比例</translation>
     </message>
     <message>
         <source>Height:</source>
-        <translation type="unfinished">高度：</translation>
+        <translation>高度：</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished">阴影</translation>
+        <translation>阴影</translation>
     </message>
     <message>
         <source>X offset:</source>
-        <translation type="unfinished"></translation>
+        <translation>X 偏移</translation>
     </message>
     <message>
         <source>Y offset:</source>
-        <translation type="unfinished"></translation>
+        <translation>Y 偏移</translation>
     </message>
     <message>
         <source>Opacity:</source>
-        <translation type="unfinished">不透明：</translation>
+        <translation>不透明：</translation>
     </message>
 </context>
 <context>
     <name>PreferencesDialog</name>
     <message>
         <source>gLabels - Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>gLabels - 参数</translation>
     </message>
     <message>
         <source>Locale</source>
-        <translation type="unfinished">本地化</translation>
+        <translation>本地化</translation>
     </message>
     <message>
         <source>Select locale specific behavior.</source>
-        <translation type="unfinished">本地化设置</translation>
+        <translation>本地化设置.</translation>
     </message>
     <message>
         <source>Units</source>
-        <translation type="unfinished">单位</translation>
+        <translation>单位</translation>
     </message>
     <message>
         <source>Points</source>
-        <translation type="unfinished">像素</translation>
+        <translation>像素</translation>
     </message>
     <message>
         <source>Centimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>厘米</translation>
     </message>
     <message>
         <source>Millimeters</source>
-        <translation type="unfinished">毫米</translation>
+        <translation>毫米</translation>
     </message>
     <message>
         <source>Inches</source>
-        <translation type="unfinished">英寸</translation>
+        <translation>英寸</translation>
     </message>
     <message>
         <source>Picas</source>
-        <translation type="unfinished"></translation>
+        <translation>皮卡</translation>
     </message>
 </context>
 <context>
     <name>PrintView</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>从</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation>页</translation>
     </message>
     <message>
         <source>of</source>
-        <translation type="unfinished"></translation>
+        <translation>之</translation>
     </message>
     <message>
         <source>nn</source>
-        <translation type="unfinished"></translation>
+        <translation>nn</translation>
     </message>
     <message>
         <source>Copies</source>
-        <translation type="unfinished">副本</translation>
+        <translation>副本</translation>
     </message>
     <message>
         <source>Copies:</source>
-        <translation type="unfinished">副本</translation>
+        <translation>副本:</translation>
     </message>
     <message>
         <source>Start on position:</source>
-        <translation type="unfinished"></translation>
+        <translation>起始位置:</translation>
     </message>
     <message>
         <source>on 1st page</source>
-        <translation type="unfinished"></translation>
+        <translation>第一页</translation>
     </message>
     <message>
         <source>Print options</source>
-        <translation type="unfinished"></translation>
+        <translation>打印选项</translation>
     </message>
     <message>
         <source>print outlines</source>
-        <translation type="unfinished"></translation>
+        <translation>打印边框</translation>
     </message>
     <message>
         <source>print crop marks</source>
-        <translation type="unfinished">打印裁剪标记</translation>
+        <translation>打印裁剪标记</translation>
     </message>
     <message>
         <source>print in reverse (i.e. a mirror image)</source>
-        <translation type="unfinished">反转打印 (例如对称)</translation>
+        <translation>反转打印 (例如对称)</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>打印</translation>
     </message>
 </context>
 <context>
@@ -689,34 +688,34 @@
     <name>StartupView</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>从</translation>
     </message>
     <message>
         <source>Welcome to gLabels.  Let&apos;s get started:</source>
-        <translation type="unfinished"></translation>
+        <translation>欢迎使用gLabels.让我们开始吧:</translation>
     </message>
     <message>
         <source>New Project</source>
-        <translation type="unfinished"></translation>
+        <translation>新项目</translation>
     </message>
     <message>
         <source>Create a new blank gLabels project</source>
-        <translation type="unfinished"></translation>
+        <translation>创建一个新的空白项目</translation>
     </message>
     <message>
         <source>Open Project</source>
-        <translation type="unfinished"></translation>
+        <translation>打开项目</translation>
     </message>
     <message>
         <source>Open an existing gLabels project</source>
-        <translation type="unfinished"></translation>
+        <translation>打开已有的项目</translation>
     </message>
 </context>
 <context>
     <name>TemplateDesignerApplyPage</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>从</translation>
     </message>
     <message>
         <source>You have completed the gLabels Product Template Designer.  If you wish to accept and save your product template, click &quot;Save.&quot;</source>
@@ -1036,31 +1035,30 @@
     <name>Units</name>
     <message>
         <source>points</source>
-        <translation type="unfinished">像素</translation>
+        <translation>像素</translation>
     </message>
     <message>
         <source>inches</source>
-        <translation type="unfinished">英寸</translation>
+        <translation>英寸</translation>
     </message>
     <message>
         <source>mm</source>
-        <translation type="unfinished">mm</translation>
+        <translation>毫米</translation>
     </message>
     <message>
         <source>cm</source>
-        <translation type="unfinished">cm</translation>
+        <translation>厘米</translation>
     </message>
     <message>
         <source>picas</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>皮卡</translation>
     </message>
 </context>
 <context>
     <name>glabels::AboutDialog</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>版本号</translation>
     </message>
     <message>
         <source>A program to create labels and business cards.</source>
@@ -1079,11 +1077,11 @@
     <name>glabels::ColorPaletteDialog</name>
     <message>
         <source>Custom color...</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义颜色</translation>
     </message>
     <message>
         <source>Merge key...</source>
-        <translation type="unfinished"></translation>
+        <translation>合并参数</translation>
     </message>
     <message>
         <source>Custom Color</source>
@@ -1098,671 +1096,671 @@
     <name>glabels::File</name>
     <message>
         <source>gLabels - Open Project</source>
-        <translation type="unfinished"></translation>
+        <translation>gLabels - 打开工程</translation>
     </message>
     <message>
         <source>glabels files (*.glabels);;All files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>glabels 文件 (*.glabels);;所有文件 (*)</translation>
     </message>
     <message>
         <source>Unable to open &quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>不能打开 &quot;</translation>
     </message>
     <message>
         <source>&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;.</translation>
     </message>
     <message>
         <source>gLabels - Save Project As</source>
-        <translation type="unfinished"></translation>
+        <translation>gLabels - 将工程另存为</translation>
     </message>
     <message>
         <source>Save Label As</source>
-        <translation type="unfinished"></translation>
+        <translation>将标签保存为</translation>
     </message>
     <message>
         <source>%1 already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 已经存在.</translation>
     </message>
     <message>
         <source>Do you want to replace it?</source>
-        <translation type="unfinished"></translation>
+        <translation>你想替换它吗？</translation>
     </message>
 </context>
 <context>
     <name>glabels::LabelEditor</name>
     <message>
         <source>Move</source>
-        <translation type="unfinished">移动</translation>
+        <translation>移动</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
 </context>
 <context>
     <name>glabels::MainWindow</name>
     <message>
         <source>Welcome</source>
-        <translation type="unfinished">欢迎</translation>
+        <translation>欢迎</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>属性</translation>
     </message>
     <message>
         <source>Merge</source>
-        <translation type="unfinished"></translation>
+        <translation>变量</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>打印</translation>
     </message>
     <message>
         <source>&amp;New...</source>
-        <translation type="unfinished"></translation>
+        <translation>新建(&amp;N)</translation>
     </message>
     <message>
         <source>Create a new gLabels project</source>
-        <translation type="unfinished"></translation>
+        <translation>创建一个新的标签工程</translation>
     </message>
     <message>
         <source>&amp;Open...</source>
-        <translation type="unfinished"></translation>
+        <translation>打开(&amp;O)</translation>
     </message>
     <message>
         <source>Open an existing gLabels project</source>
-        <translation type="unfinished"></translation>
+        <translation>打开一个已有的标签工程</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
+        <translation>保存(&amp;S)</translation>
     </message>
     <message>
         <source>Save current gLabels project</source>
-        <translation type="unfinished"></translation>
+        <translation>保存当前工程</translation>
     </message>
     <message>
         <source>Save &amp;As...</source>
-        <translation type="unfinished"></translation>
+        <translation>另存为(&amp;A)</translation>
     </message>
     <message>
         <source>Save current gLabels project to a different name</source>
-        <translation type="unfinished"></translation>
+        <translation>重命名当前工程</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑(&amp;E)</translation>
     </message>
     <message>
         <source>Select project Edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation>选择编辑模式</translation>
     </message>
     <message>
         <source>P&amp;roperties</source>
-        <translation type="unfinished"></translation>
+        <translation>属性(&amp;r)</translation>
     </message>
     <message>
         <source>Select project Properties mode</source>
-        <translation type="unfinished"></translation>
+        <translation>选择工程属性</translation>
     </message>
     <message>
         <source>&amp;Merge</source>
-        <translation type="unfinished"></translation>
+        <translation>变量(&amp;M)</translation>
     </message>
     <message>
         <source>Select project Merge mode</source>
-        <translation type="unfinished"></translation>
+        <translation>选择变量模式</translation>
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation type="unfinished"></translation>
+        <translation>打印(&amp;P)</translation>
     </message>
     <message>
         <source>Select project Print mode</source>
-        <translation type="unfinished"></translation>
+        <translation>选择工程打印模式</translation>
     </message>
     <message>
         <source>Product Template &amp;Designer...</source>
-        <translation type="unfinished"></translation>
+        <translation>模板设计(&amp;D)</translation>
     </message>
     <message>
         <source>Create custom templates</source>
-        <translation type="unfinished"></translation>
+        <translation>创建自定义模板</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭(&amp;C)</translation>
     </message>
     <message>
         <source>Close the current window</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭当前窗口</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
-        <translation type="unfinished"></translation>
+        <translation>退出(&amp;E)</translation>
     </message>
     <message>
         <source>Exit glabels</source>
-        <translation type="unfinished"></translation>
+        <translation>退出glabels</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished">撤销</translation>
+        <translation>撤销</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished">重做</translation>
+        <translation>重做</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished">剪切</translation>
+        <translation>剪切</translation>
     </message>
     <message>
         <source>Cut the selection</source>
-        <translation type="unfinished">剪切选中的内容</translation>
+        <translation>剪切选中的内容</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>复制(&amp;C)</translation>
     </message>
     <message>
         <source>Copy the selection</source>
-        <translation type="unfinished">复制选中的内容</translation>
+        <translation>复制选中的内容</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>粘贴(&amp;P)</translation>
     </message>
     <message>
         <source>Paste the clipboard</source>
-        <translation type="unfinished">粘贴到剪贴板</translation>
+        <translation>粘贴到剪贴板</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>删除(&amp;D)</translation>
     </message>
     <message>
         <source>Delete the selected objects</source>
-        <translation type="unfinished">删除选中的对象</translation>
+        <translation>删除选中的对象</translation>
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation type="unfinished"></translation>
+        <translation>选择所有(&amp;A)</translation>
     </message>
     <message>
         <source>Select all objects</source>
-        <translation type="unfinished">选中全部对象</translation>
+        <translation>选中全部对象</translation>
     </message>
     <message>
         <source>Un-select All</source>
-        <translation type="unfinished">取消全选</translation>
+        <translation>取消全选</translation>
     </message>
     <message>
         <source>Remove all selections</source>
-        <translation type="unfinished">删除全部选中的内容</translation>
+        <translation>删除全部选中的内容</translation>
     </message>
     <message>
         <source>Preferences</source>
-        <translation type="unfinished">参数</translation>
+        <translation>参数</translation>
     </message>
     <message>
         <source>Configure the application</source>
-        <translation type="unfinished">对程序进行设置</translation>
+        <translation>对程序进行设置</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>文件</translation>
     </message>
     <message>
         <source>Change visibility of file toolbar in current window</source>
-        <translation type="unfinished"></translation>
+        <translation>改变工具栏在当前窗口的可见性</translation>
     </message>
     <message>
         <source>Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑器</translation>
     </message>
     <message>
         <source>Change visibility of editor toolbar in current window</source>
-        <translation type="unfinished"></translation>
+        <translation>改变编辑器在当前窗口的可见性</translation>
     </message>
     <message>
         <source>Grid</source>
-        <translation type="unfinished">单元格</translation>
+        <translation>单元格</translation>
     </message>
     <message>
         <source>Change visibility of the grid in current window</source>
-        <translation type="unfinished"></translation>
+        <translation>改变单元格在当前窗口的可见性</translation>
     </message>
     <message>
         <source>Markup</source>
-        <translation type="unfinished">标记</translation>
+        <translation>标记</translation>
     </message>
     <message>
         <source>Change visibility of markup lines in current window</source>
-        <translation type="unfinished"></translation>
+        <translation>改变标记在当前窗口的可见性</translation>
     </message>
     <message>
         <source>Zoom &amp;In</source>
-        <translation type="unfinished"></translation>
+        <translation>放大(&amp;I)</translation>
     </message>
     <message>
         <source>Increase magnification</source>
-        <translation type="unfinished">放大</translation>
+        <translation>放大</translation>
     </message>
     <message>
         <source>Zoom &amp;Out</source>
-        <translation type="unfinished"></translation>
+        <translation>缩小(&amp;O)</translation>
     </message>
     <message>
         <source>Decrease magnification</source>
-        <translation type="unfinished">缩小</translation>
+        <translation>缩小</translation>
     </message>
     <message>
         <source>Zoom &amp;1 to 1</source>
-        <translation type="unfinished"></translation>
+        <translation>原始大小(&amp;1)</translation>
     </message>
     <message>
         <source>Restore scale to 100%</source>
-        <translation type="unfinished">缩放到实际大小的 100% </translation>
+        <translation>缩放到实际大小的 100% </translation>
     </message>
     <message>
         <source>Zoom to &amp;Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>适应窗口大小(&amp;F)</translation>
     </message>
     <message>
         <source>Set scale to fit window</source>
-        <translation type="unfinished">缩放到适合窗口</translation>
+        <translation>缩放到适合窗口</translation>
     </message>
     <message>
         <source>Select Mode</source>
-        <translation type="unfinished">模式选择</translation>
+        <translation>模式选择</translation>
     </message>
     <message>
         <source>Select, move and modify objects</source>
-        <translation type="unfinished">选择，移动或删除对象</translation>
+        <translation>选择，移动或删除对象</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished">文字</translation>
+        <translation>文字</translation>
     </message>
     <message>
         <source>Create text object</source>
-        <translation type="unfinished">新建文字对象</translation>
+        <translation>新建文字对象</translation>
     </message>
     <message>
         <source>Box</source>
-        <translation type="unfinished">矩形</translation>
+        <translation>矩形</translation>
     </message>
     <message>
         <source>Create box object</source>
-        <translation type="unfinished">新建框对象</translation>
+        <translation>新建框对象</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished">线条</translation>
+        <translation>线条</translation>
     </message>
     <message>
         <source>Create line object</source>
-        <translation type="unfinished">新建线条对象</translation>
+        <translation>新建线条对象</translation>
     </message>
     <message>
         <source>Ellipse</source>
-        <translation type="unfinished">椭圆</translation>
+        <translation>椭圆</translation>
     </message>
     <message>
         <source>Create ellipse/circle object</source>
-        <translation type="unfinished">新建 椭圆/圆 对象</translation>
+        <translation>新建 椭圆/圆 对象</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">图片</translation>
+        <translation>图片</translation>
     </message>
     <message>
         <source>Create image object</source>
-        <translation type="unfinished">新建图片对象</translation>
+        <translation>新建图片对象</translation>
     </message>
     <message>
         <source>Barcode</source>
-        <translation type="unfinished">条形码</translation>
+        <translation>条形码</translation>
     </message>
     <message>
         <source>Create barcode object</source>
-        <translation type="unfinished">新建条形码</translation>
+        <translation>新建条形码</translation>
     </message>
     <message>
         <source>Bring To Front</source>
-        <translation type="unfinished"></translation>
+        <translation>放到前面</translation>
     </message>
     <message>
         <source>Raise selection to top</source>
-        <translation type="unfinished"></translation>
+        <translation>放到最前面</translation>
     </message>
     <message>
         <source>Send To Back</source>
-        <translation type="unfinished"></translation>
+        <translation>放在后面</translation>
     </message>
     <message>
         <source>Lower selection to bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>放到最后面</translation>
     </message>
     <message>
         <source>Rotate Left</source>
-        <translation type="unfinished"></translation>
+        <translation>向左旋转</translation>
     </message>
     <message>
         <source>Rotate object(s) 90 degrees counter-clockwise</source>
-        <translation type="unfinished"></translation>
+        <translation>逆时针旋转90°</translation>
     </message>
     <message>
         <source>Rotate Right</source>
-        <translation type="unfinished"></translation>
+        <translation>向右旋转</translation>
     </message>
     <message>
         <source>Rotate object(s) 90 degrees clockwise</source>
-        <translation type="unfinished"></translation>
+        <translation>顺时针旋转90°</translation>
     </message>
     <message>
         <source>Flip Horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>水平翻转</translation>
     </message>
     <message>
         <source>Flip object(s) horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>水平翻转</translation>
     </message>
     <message>
         <source>Flip Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直翻转</translation>
     </message>
     <message>
         <source>Flip object(s) vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直翻转</translation>
     </message>
     <message>
         <source>Align Left</source>
-        <translation type="unfinished"></translation>
+        <translation>左对齐</translation>
     </message>
     <message>
         <source>Align objects to left edges</source>
-        <translation type="unfinished">多个对象与左边界对齐</translation>
+        <translation>多个对象与左边界对齐</translation>
     </message>
     <message>
         <source>Align Center</source>
-        <translation type="unfinished"></translation>
+        <translation>中心对齐</translation>
     </message>
     <message>
         <source>Align objects to horizontal centers</source>
-        <translation type="unfinished">多个对象的水平中心共线</translation>
+        <translation>多个对象的水平中心共线</translation>
     </message>
     <message>
         <source>Align Right</source>
-        <translation type="unfinished"></translation>
+        <translation>右对齐</translation>
     </message>
     <message>
         <source>Align objects to right edges</source>
-        <translation type="unfinished">多个对象与左边界对齐</translation>
+        <translation>多个对象与左边界对齐</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation type="unfinished"></translation>
+        <translation>上对齐</translation>
     </message>
     <message>
         <source>Align objects to top edges</source>
-        <translation type="unfinished">多个对象与上边界对齐</translation>
+        <translation>多个对象与上边界对齐</translation>
     </message>
     <message>
         <source>Align Middle</source>
-        <translation type="unfinished"></translation>
+        <translation>中间对齐</translation>
     </message>
     <message>
         <source>Align objects to vertical centers</source>
-        <translation type="unfinished">多个对象的垂直中心共线</translation>
+        <translation>多个对象的垂直中心共线</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>底边对齐</translation>
     </message>
     <message>
         <source>Align objects to bottom edges</source>
-        <translation type="unfinished">多个对象与下边界对齐</translation>
+        <translation>多个对象与下边界对齐</translation>
     </message>
     <message>
         <source>Center Horizontally</source>
-        <translation type="unfinished"></translation>
+        <translation>水平居中</translation>
     </message>
     <message>
         <source>Horizontally center objects in label</source>
-        <translation type="unfinished"></translation>
+        <translation>多个对象水平居中</translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直居中</translation>
     </message>
     <message>
         <source>Vertically center objects in label</source>
-        <translation type="unfinished"></translation>
+        <translation>多个对象垂直居中</translation>
     </message>
     <message>
         <source>&amp;Contents...</source>
-        <translation type="unfinished"></translation>
+        <translation>内容(&amp;C)</translation>
     </message>
     <message>
         <source>Open gLabels manual</source>
-        <translation type="unfinished"></translation>
+        <translation>打开用户手册</translation>
     </message>
     <message>
         <source>&amp;About...</source>
-        <translation type="unfinished"></translation>
+        <translation>关于(&amp;A)</translation>
     </message>
     <message>
         <source>About gLabels</source>
-        <translation type="unfinished"></translation>
+        <translation>关于glabels</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>文件(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>视图(&amp;V)</translation>
     </message>
     <message>
         <source>Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>工具栏</translation>
     </message>
     <message>
         <source>&amp;Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>对象(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Create</source>
-        <translation type="unfinished"></translation>
+        <translation>创建(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Order</source>
-        <translation type="unfinished"></translation>
+        <translation>顺序(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Rotate/Flip</source>
-        <translation type="unfinished"></translation>
+        <translation>旋转/翻转(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Alignment</source>
-        <translation type="unfinished"></translation>
+        <translation>对齐(&amp;A)</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>居中</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>帮助(&amp;H)</translation>
     </message>
     <message>
         <source>&amp;Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑器(&amp;E)</translation>
     </message>
     <message>
         <source>(modified)</source>
-        <translation type="unfinished">(已修改)</translation>
+        <translation>(已修改)</translation>
     </message>
     <message>
         <source>Save changes to project &quot;%1&quot; before closing?</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭前是否保存工程 &quot;%1&quot;？</translation>
     </message>
     <message>
         <source>Your changes will be lost if you don&apos;t save them.</source>
-        <translation type="unfinished">如果不保存，所做的更改会丢失。</translation>
+        <translation>如果不保存，所做的更改会丢失。</translation>
     </message>
     <message>
         <source>Save project?</source>
-        <translation type="unfinished"></translation>
+        <translation>是否保存工程?</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished">粘贴</translation>
+        <translation>粘贴</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <source>Create Text</source>
-        <translation type="unfinished"></translation>
+        <translation>创建文本</translation>
     </message>
     <message>
         <source>Create Box</source>
-        <translation type="unfinished"></translation>
+        <translation>创建框</translation>
     </message>
     <message>
         <source>Create Line</source>
-        <translation type="unfinished"></translation>
+        <translation>创建线</translation>
     </message>
     <message>
         <source>Create Ellipse</source>
-        <translation type="unfinished"></translation>
+        <translation>创建椭圆</translation>
     </message>
     <message>
         <source>Create Image</source>
-        <translation type="unfinished"></translation>
+        <translation>创建图片</translation>
     </message>
     <message>
         <source>Create Barcode</source>
-        <translation type="unfinished"></translation>
+        <translation>创建条形码</translation>
     </message>
 </context>
 <context>
     <name>glabels::MergeView</name>
     <message>
         <source>Merge</source>
-        <translation type="unfinished"></translation>
+        <translation>参数</translation>
     </message>
     <message>
         <source>Select merge file</source>
-        <translation type="unfinished"></translation>
+        <translation>选择参数文件</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>所有文件(*)</translation>
     </message>
 </context>
 <context>
     <name>glabels::ObjectEditor</name>
     <message>
         <source>No line</source>
-        <translation type="unfinished"></translation>
+        <translation>无线条</translation>
     </message>
     <message>
         <source>No fill</source>
-        <translation type="unfinished"></translation>
+        <translation>无填充</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished">默认值</translation>
+        <translation>默认值</translation>
     </message>
     <message>
         <source>Insert Field</source>
-        <translation type="unfinished"></translation>
+        <translation>插入参数</translation>
     </message>
     <message>
         <source>Key</source>
-        <translation type="unfinished"></translation>
+        <translation>关键字</translation>
     </message>
     <message>
         <source>Original size</source>
-        <translation type="unfinished"></translation>
+        <translation>原始大小</translation>
     </message>
     <message>
         <source>Box object properties</source>
-        <translation type="unfinished">矩形属性</translation>
+        <translation>矩形属性</translation>
     </message>
     <message>
         <source>line/fill</source>
-        <translation type="unfinished"></translation>
+        <translation>线条/填充</translation>
     </message>
     <message>
         <source>position/size</source>
-        <translation type="unfinished"></translation>
+        <translation>位置/大小</translation>
     </message>
     <message>
         <source>shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>阴影</translation>
     </message>
     <message>
         <source>Ellipse object properties</source>
-        <translation type="unfinished">椭圆属性</translation>
+        <translation>椭圆属性</translation>
     </message>
     <message>
         <source>Image object properties</source>
-        <translation type="unfinished">图片属性</translation>
+        <translation>图片属性</translation>
     </message>
     <message>
         <source>image</source>
-        <translation type="unfinished"></translation>
+        <translation>图片</translation>
     </message>
     <message>
         <source>Line object properties</source>
-        <translation type="unfinished">线条属性</translation>
+        <translation>线条属性</translation>
     </message>
     <message>
         <source>Text object properties</source>
-        <translation type="unfinished">文字属性</translation>
+        <translation>文字属性</translation>
     </message>
     <message>
         <source>text</source>
-        <translation type="unfinished"></translation>
+        <translation>文字</translation>
     </message>
     <message>
         <source>Barcode object properties</source>
-        <translation type="unfinished">条形码属性</translation>
+        <translation>条形码属性</translation>
     </message>
     <message>
         <source>barcode</source>
-        <translation type="unfinished"></translation>
+        <translation>条形码</translation>
     </message>
     <message>
         <source>Object properties</source>
-        <translation type="unfinished">对象属性</translation>
+        <translation>对象属性</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished">线条</translation>
+        <translation>线条</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished">填充</translation>
+        <translation>填充</translation>
     </message>
     <message>
         <source>Image files (*.png *.jpg *.jpeg *.gif *.bmp *.pbm *.pgm *.ppm *.xbm *.xpm *.svg)</source>
-        <translation type="unfinished"></translation>
+        <translation>图片文件(*.png *.jpg *.jpeg *.gif *.bmp *.pbm *.pgm *.ppm *.xbm *.xpm *.svg)</translation>
     </message>
     <message>
         <source>All files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>所有文件(*)</translation>
     </message>
     <message>
         <source>PNG - Portable Network Graphics (*.png)</source>
@@ -1810,67 +1808,67 @@
     </message>
     <message>
         <source>Set image</source>
-        <translation type="unfinished">设置图片</translation>
+        <translation>设置图片</translation>
     </message>
     <message>
         <source>Move</source>
-        <translation type="unfinished">移动</translation>
+        <translation>移动</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">尺寸</translation>
+        <translation>尺寸</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished">文字</translation>
+        <translation>文字</translation>
     </message>
     <message>
         <source>Shadow</source>
-        <translation type="unfinished">阴影</translation>
+        <translation>阴影</translation>
     </message>
 </context>
 <context>
     <name>glabels::PrintView</name>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>打印</translation>
     </message>
     <message>
         <source>(Will print a total of %1 items on %2 pages.)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Will print a total of %1 items on %2 pages.)</translation>
     </message>
 </context>
 <context>
     <name>glabels::PropertiesView</name>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>属性</translation>
     </message>
     <message>
         <source>Product Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation>产品旋转</translation>
     </message>
     <message>
         <source>Change Product</source>
-        <translation type="unfinished"></translation>
+        <translation>更换产品</translation>
     </message>
 </context>
 <context>
     <name>glabels::SimplePreview</name>
     <message>
         <source>Up</source>
-        <translation type="unfinished">向上</translation>
+        <translation>向上</translation>
     </message>
 </context>
 <context>
     <name>glabels::TemplateDesigner</name>
     <message>
         <source>Product Template Designer</source>
-        <translation type="unfinished"></translation>
+        <translation>产品模板设计</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">复制</translation>
+        <translation>复制</translation>
     </message>
 </context>
 <context>
@@ -2025,433 +2023,399 @@
     <name>glabels::barcode::Backends</name>
     <message>
         <source>Code 39</source>
-        <translation type="unfinished">Code 39</translation>
+        <translation>Code 39</translation>
     </message>
     <message>
         <source>Code 39 Extended</source>
-        <translation type="unfinished">Code 39</translation>
+        <translation>Code 39</translation>
     </message>
     <message>
         <source>UPC-A</source>
-        <translation type="unfinished">UPC-A</translation>
+        <translation>UPC-A</translation>
     </message>
     <message>
         <source>EAN-13</source>
-        <translation type="unfinished">EAN-13</translation>
+        <translation>EAN-13</translation>
     </message>
     <message>
         <source>POSTNET (any)</source>
-        <translation type="unfinished">POSTNET (通用)</translation>
+        <translation>POSTNET (通用)</translation>
     </message>
     <message>
         <source>POSTNET-5 (ZIP only)</source>
-        <translation type="unfinished">POSTNET-5 (用于邮编)</translation>
+        <translation>POSTNET-5 (用于邮编)</translation>
     </message>
     <message>
         <source>POSTNET-9 (ZIP+4)</source>
-        <translation type="unfinished">POSTNET-9 (ZIP+4)</translation>
+        <translation>POSTNET-9 (ZIP+4)</translation>
     </message>
     <message>
         <source>POSTNET-11 (DPBC)</source>
-        <translation type="unfinished">POSTNET-11 (DPBC)</translation>
+        <translation>POSTNET-11 (DPBC)</translation>
     </message>
     <message>
         <source>CEPNET</source>
-        <translation type="unfinished">CEPNET</translation>
+        <translation>CEPNET</translation>
     </message>
     <message>
         <source>USPS Intelligent Mail</source>
-        <translation type="unfinished"></translation>
+        <translation>USPS Intelligent Mail</translation>
     </message>
     <message>
         <source>IEC16022 (DataMatrix)</source>
-        <translation type="unfinished">IEC16022 (DataMatrix)</translation>
+        <translation>IEC16022 (DataMatrix)</translation>
     </message>
     <message>
         <source>EAN (any)</source>
-        <translation type="unfinished">EAN (通用)</translation>
+        <translation>EAN (通用)</translation>
     </message>
     <message>
         <source>EAN-8</source>
-        <translation type="unfinished">EAN-8</translation>
+        <translation>EAN-8</translation>
     </message>
     <message>
         <source>EAN-8+2</source>
-        <translation type="unfinished"></translation>
+        <translation>EAN-8+2</translation>
     </message>
     <message>
         <source>EAN-8+5</source>
-        <translation type="unfinished"></translation>
+        <translation>EAN-8+5</translation>
     </message>
     <message>
         <source>EAN-13+2</source>
-        <translation type="unfinished"></translation>
+        <translation>EAN-13+2</translation>
     </message>
     <message>
         <source>EAN-13+5</source>
-        <translation type="unfinished"></translation>
+        <translation>EAN-13+5</translation>
     </message>
     <message>
         <source>UPC (UPC-A or UPC-E)</source>
-        <translation type="unfinished">UPC (UPC-A 或者 UPC-E)</translation>
+        <translation>UPC (UPC-A 或者 UPC-E)</translation>
     </message>
     <message>
         <source>UPC-A +2</source>
-        <translation type="unfinished">UPC-A +2</translation>
+        <translation>UPC-A +2</translation>
     </message>
     <message>
         <source>UPC-A +5</source>
-        <translation type="unfinished">UPC-A +5</translation>
+        <translation>UPC-A +5</translation>
     </message>
     <message>
         <source>UPC-E</source>
-        <translation type="unfinished">UPC-E</translation>
+        <translation>UPC-E</translation>
     </message>
     <message>
         <source>UPC-E +2</source>
-        <translation type="unfinished">UPC-E +2</translation>
+        <translation>UPC-E +2</translation>
     </message>
     <message>
         <source>UPC-E +5</source>
-        <translation type="unfinished">UPC-E +5</translation>
+        <translation>UPC-E +5</translation>
     </message>
     <message>
         <source>ISBN</source>
-        <translation type="unfinished">ISBN</translation>
+        <translation>ISBN</translation>
     </message>
     <message>
         <source>ISBN +5</source>
-        <translation type="unfinished">ISBN +5</translation>
+        <translation>ISBN +5</translation>
     </message>
     <message>
         <source>Code 128</source>
-        <translation type="unfinished">Code 128</translation>
+        <translation>Code 128</translation>
     </message>
     <message>
         <source>Code 128C</source>
-        <translation type="unfinished">Code 128C</translation>
+        <translation>Code 128C</translation>
     </message>
     <message>
         <source>Code 128B</source>
-        <translation type="unfinished">Code 128B</translation>
+        <translation>Code 128B</translation>
     </message>
     <message>
         <source>Interleaved 2 of 5</source>
-        <translation type="unfinished">Interleaved 2 of 5</translation>
+        <translation>Interleaved 2 of 5</translation>
     </message>
     <message>
         <source>Codabar</source>
-        <translation type="unfinished">Codabar</translation>
+        <translation>Codabar</translation>
     </message>
     <message>
         <source>MSI</source>
-        <translation type="unfinished">MSI</translation>
+        <translation>MSI</translation>
     </message>
     <message>
         <source>Plessey</source>
-        <translation type="unfinished">Plessey</translation>
+        <translation>Plessey</translation>
     </message>
     <message>
         <source>Code 93</source>
-        <translation type="unfinished">Code 93</translation>
+        <translation>Code 93</translation>
     </message>
     <message>
         <source>IEC18004 (QRCode)</source>
-        <translation type="unfinished">IEC18004 (QRCode)</translation>
+        <translation>IEC18004 (QRCode)</translation>
     </message>
     <message>
         <source>Australia Post Reply Paid</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>Australia Post Reply Paid</translation>
     </message>
     <message>
         <source>Australia Post Route Code</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>Australia Post Route Code</translation>
     </message>
     <message>
         <source>Australia Post Redirect</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>Australia Post Redirect</translation>
     </message>
     <message>
         <source>Aztec Code</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>Aztec Code</translation>
     </message>
     <message>
         <source>Aztec Rune</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>Aztec Rune</translation>
     </message>
     <message>
         <source>Code One</source>
-        <translation type="unfinished">Code 39</translation>
+        <translation>Code One</translation>
     </message>
     <message>
         <source>Code 11</source>
-        <translation type="unfinished">Code 128</translation>
+        <translation>Code 11</translation>
     </message>
     <message>
         <source>Code 16K</source>
-        <translation type="unfinished">Code 128</translation>
+        <translation>Code 16K</translation>
     </message>
     <message>
         <source>Code 2 of 5 Matrix</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>Code 2 of 5 Matrix</translation>
     </message>
     <message>
         <source>Code 2 of 5 IATA</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>Code 2 of 5 IATA</translation>
     </message>
     <message>
         <source>Code 2 of 5 Data Logic</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>Code 2 of 5 Data Logix</translation>
     </message>
     <message>
         <source>Code 32 (Italian Pharmacode)</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>Code 32 (Italian Pharmacode)</translation>
     </message>
     <message>
         <source>Code 49</source>
-        <translation type="unfinished">Code 39</translation>
+        <translation>Code 49</translation>
     </message>
     <message>
         <source>DAFT Code</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>DAFT Code</translation>
     </message>
     <message>
         <source>Data Matrix</source>
-        <translation type="unfinished">IEC16022 (DataMatrix)</translation>
+        <translation>IEC16022 (DataMatrix)</translation>
     </message>
     <message>
         <source>Deutsche Post Leitcode</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>Deutsche Post Leitcode</translation>
     </message>
     <message>
         <source>Deutsche Post Identcode</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>Deutsche Post Identcode</translation>
     </message>
     <message>
         <source>Dutch Post KIX Code</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>Dutch Post KIX Code</translation>
     </message>
     <message>
         <source>EAN</source>
-        <translation type="unfinished">EAN-8</translation>
+        <translation>EAN-8</translation>
     </message>
     <message>
         <source>Grid Matrix</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>Grid Matrix</translation>
     </message>
     <message>
         <source>GS1-128</source>
-        <translation type="unfinished">GS1-128</translation>
+        <translation>GS1-128</translation>
     </message>
     <message>
         <source>GS1 DataBar-14</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>GS1 DataBar-14</translation>
     </message>
     <message>
         <source>GS1 DataBar-14 Stacked</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>GS1 DataBar-14 Stacked</translation>
     </message>
     <message>
         <source>GS1 DataBar-14 Stacked Omni.</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>GS1 DataBar-14 Stacked Omni.</translation>
     </message>
     <message>
         <source>GS1 DataBar Extended Stacked</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>GS1 DataBar Extended Stacked</translation>
     </message>
     <message>
         <source>HIBC Code 128</source>
-        <translation type="unfinished">Code 128</translation>
+        <translation>Code 128</translation>
     </message>
     <message>
         <source>HIBC Code 39</source>
-        <translation type="unfinished">Code 39</translation>
+        <translation>Code 39</translation>
     </message>
     <message>
         <source>HIBC Data Matrix</source>
-        <translation type="unfinished">IEC16022 (DataMatrix)</translation>
+        <translation>IEC16022 (DataMatrix)</translation>
     </message>
     <message>
         <source>HIBC QR Code</source>
-        <translation type="unfinished">IEC18004 (QRCode)</translation>
+        <translation>IEC18004 (QRCode)</translation>
     </message>
     <message>
         <source>HIBC PDF417</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>HIBC PDF417</translation>
     </message>
     <message>
         <source>HIBC Micro PDF417</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>HIBC Micro PDF417</translation>
     </message>
     <message>
         <source>HIBC Aztec Code</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>HIBC Aztec Code</translation>
     </message>
     <message>
         <source>ITF-14</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>ITF-14</translation>
     </message>
     <message>
         <source>Japanese Postal</source>
-        <translation type="unfinished">日本邮政</translation>
+        <translation>日本邮政</translation>
     </message>
     <message>
         <source>Korean Postal</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>韩国邮政</translation>
     </message>
     <message>
         <source>LOGMARS</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>LOGMARS</translation>
     </message>
     <message>
         <source>Maxicode</source>
-        <translation type="unfinished">条形码</translation>
+        <translation>条形码</translation>
     </message>
     <message>
         <source>Micro PDF417</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>Micro PDF417</translation>
     </message>
     <message>
         <source>Micro QR Code</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>Micro QR Code</translation>
     </message>
     <message>
         <source>MSI Plessey</source>
-        <translation type="unfinished">Plessey</translation>
+        <translation>MSI Plessey</translation>
     </message>
     <message>
         <source>NVE-18</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>NVE-18</translation>
     </message>
     <message>
         <source>PDF417</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>PDF417</translation>
     </message>
     <message>
         <source>PDF417 Truncated</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>PDF417 Truncated</translation>
     </message>
     <message>
         <source>PLANET</source>
-        <translation type="unfinished">CEPNET</translation>
+        <translation>PLANET</translation>
     </message>
     <message>
         <source>PostNet</source>
-        <translation type="unfinished">粘贴</translation>
+        <translation>PostNet</translation>
     </message>
     <message>
         <source>Pharmacode</source>
-        <translation type="unfinished">条形码</translation>
+        <translation>Pharmacode</translation>
     </message>
     <message>
         <source>Pharmacode 2-track</source>
-        <translation type="unfinished">空条形码数据</translation>
+        <translation>Pharmacode 2-track</translation>
     </message>
     <message>
         <source>Pharmazentral Nummer (PZN)</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>Pharmazentral Nummer (PZN)</translation>
     </message>
     <message>
         <source>QR Code</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>二维码</translation>
     </message>
     <message>
         <source>Royal Mail 4-State</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>Royal Mail 4-State</translation>
     </message>
     <message>
         <source>Telepen</source>
-        <translation type="unfinished">删除</translation>
+        <translation>Telepen</translation>
     </message>
     <message>
         <source>Telepen Numeric</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>Telepen Numeric</translation>
     </message>
     <message>
         <source>USPS One Code</source>
-        <translation type="unfinished">
-            </translation>
+        <translation>USPS One Code</translation>
     </message>
     <message>
         <source>UK Plessey</source>
-        <translation type="unfinished">Plessey</translation>
+        <translation>UK Plessey</translation>
     </message>
     <message>
         <source>Australia Post Standard</source>
-        <translation type="unfinished"></translation>
+        <translation>Australia Post Standard</translation>
     </message>
     <message>
         <source>Code 128 (Mode C suppression)</source>
-        <translation type="unfinished"></translation>
+        <translation>Code 128 (Mode C suppression)</translation>
     </message>
 </context>
 <context>
     <name>glabels::model::Model</name>
     <message>
         <source>Untitled</source>
-        <translation type="unfinished">未命名</translation>
+        <translation>未命名</translation>
     </message>
 </context>
 <context>
     <name>glabels::model::ModelBarcodeObject</name>
     <message>
         <source>No barcode data</source>
-        <translation type="unfinished"></translation>
+        <translation>无条码数据</translation>
     </message>
     <message>
         <source>Invalid barcode data</source>
-        <translation type="unfinished">条形码数据无效</translation>
+        <translation>条形码数据无效</translation>
     </message>
 </context>
 <context>
     <name>glabels::model::ModelTextObject</name>
     <message>
         <source>Text</source>
-        <translation type="unfinished">文字</translation>
+        <translation>文字</translation>
     </message>
 </context>
 <context>
     <name>main</name>
     <message>
         <source>gLabels Label Designer</source>
-        <translation type="unfinished"></translation>
+        <translation>gLabels标签设计器</translation>
     </message>
     <message>
         <source>gLabels project files to open, optionally.</source>
-        <translation type="unfinished"></translation>
+        <translation>可打开的gLabels工程文件，可选的</translation>
     </message>
 </context>
 </TS>

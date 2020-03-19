@@ -37,7 +37,11 @@
 #include <QPrinterInfo>
 #include <QTranslator>
 #include <QtDebug>
+#include <QMessageBox>
+#include <QDateTime>
 
+#include <stdio.h>
+#include <stdlib.h>
 
 namespace
 {
@@ -52,10 +56,39 @@ namespace
 
 }
 
+FILE * pFile;
+
+void myMessageOutput(QtMsgType type, const QMessageLogContext &context, const QString &msg)
+{
+    QByteArray localMsg = msg.toLocal8Bit();
+    const char *file = context.file ? context.file : "";;
+    const char *function = context.function ? context.function : "";
+    switch (type) {
+    case QtDebugMsg:
+        fprintf(pFile, "Debug: %s (%s:%u, %s)\n", localMsg.constData(), file, context.line, function);
+        break;
+    case QtInfoMsg:
+        fprintf(pFile, "Info: %s (%s:%u, %s)\n", localMsg.constData(), file, context.line, function);
+        break;
+    case QtWarningMsg:
+        fprintf(pFile, "Warning: %s (%s:%u, %s)\n", localMsg.constData(), file, context.line, function);
+        break;
+    case QtCriticalMsg:
+        fprintf(pFile, "Critical: %s (%s:%u, %s)\n", localMsg.constData(), file, context.line, function);
+        break;
+    case QtFatalMsg:
+        fprintf(pFile, "Fatal: %s (%s:%u, %s)\n", localMsg.constData(), file, context.line, function);
+        break;
+    }
+    fflush (pFile);
+}
 
 int main( int argc, char **argv )
 {
-	QGuiApplication app( argc, argv );
+    const char * fname = QDateTime::currentDateTime().toString("yyyy-MM-dd.log").toStdString().c_str();
+    pFile = fopen (fname, "a");
+    qInstallMessageHandler(myMessageOutput);
+    QApplication app( argc, argv );
 
 	QCoreApplication::setOrganizationName( "glabels.org" );
 	QCoreApplication::setOrganizationDomain( "glabels.org" );
@@ -151,7 +184,9 @@ int main( int argc, char **argv )
 
 		glabels::model::Model *model = glabels::model::XmlLabelParser::readFile( filename );
 		if ( model )
-		{
+        {
+            bool useImage = false;
+            QString outputFilename;
 			QPrinter printer( QPrinter::HighResolution );
 			printer.setColorMode( QPrinter::Color );
 			if ( parser.isSet("printer") )
@@ -161,11 +196,17 @@ int main( int argc, char **argv )
 			}
 			else if ( parser.isSet("output") )
 			{
-				QString outputFilename = parser.value("output");
+                outputFilename = parser.value("output");
 				if ( outputFilename == "-" )
 				{
 					outputFilename = STDOUT_FILENAME;
 				}
+                else
+                {
+                    QFileInfo fi(outputFilename);
+                    if(fi.suffix() == "bmp")
+                        useImage = true;
+                }
 				qDebug() << "Batch mode.  output =" << outputFilename;
 				printer.setOutputFileName( outputFilename );
 			}
@@ -179,8 +220,14 @@ int main( int argc, char **argv )
 			renderer.setStartLabel( parser.value( "first" ).toInt() - 1 );
 			renderer.setPrintOutlines( parser.isSet( "outlines" ) );
 			renderer.setPrintCropMarks( parser.isSet( "crop-marks" ) );
-			renderer.setPrintReverse( parser.isSet( "reverse" ) );
-			renderer.print( &printer );
+            renderer.setPrintReverse( parser.isSet( "reverse" ) );
+            if(useImage)
+            {
+                renderer.print( &printer, outputFilename );
+                renderer.printBmp("bmp_" + outputFilename);
+            }
+            else
+                renderer.print( &printer );
 		}
 	}
 	else
@@ -196,5 +243,6 @@ int main( int argc, char **argv )
 		return -1;
 	}
 		
+    fclose (pFile);
 	return 0;
 }

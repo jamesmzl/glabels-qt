@@ -218,6 +218,13 @@
     </message>
 </context>
 <context>
+    <name>FieldButtons</name>
+    <message>
+        <source>ScrollArea</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Frame</name>
     <message>
         <source>%1 x %2 (%3 per sheet)</source>
@@ -2199,71 +2206,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>EAN-13</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>POSTNET (any)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>POSTNET-5 (ZIP only)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>POSTNET-9 (ZIP+4)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>POSTNET-11 (DPBC)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CEPNET</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>USPS Intelligent Mail</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>IEC16022 (DataMatrix)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>EAN (any)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>EAN-8</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>EAN-8+2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>EAN-8+5</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>EAN-13+2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>EAN-13+5</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>UPC (UPC-A or UPC-E)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>UPC-A +2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>UPC-A +5</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2271,19 +2214,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>UPC-E +2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>UPC-E +5</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>ISBN</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>ISBN +5</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2304,14 +2235,6 @@
     </message>
     <message>
         <source>Codabar</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>MSI</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Plessey</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2544,6 +2467,10 @@
     </message>
     <message>
         <source>UK Plessey</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>EAN-13</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

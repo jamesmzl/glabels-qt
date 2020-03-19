@@ -274,7 +274,7 @@ namespace glbarcode
 
 		if ( showText() )
 		{
-			std::string starredText = "*" + displayText + "*";
+            std::string starredText = displayText;
 			addText( xQuiet + width/2, height + (hTextArea+0.7*textSize)/2, textSize, starredText );
 		}
 

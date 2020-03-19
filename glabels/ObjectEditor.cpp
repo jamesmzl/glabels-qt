@@ -67,7 +67,10 @@ namespace glabels
 		barcodeColorButton->init( tr("Default"), QColor(0,0,0,255), QColor(0,0,0,255) );
 		shadowColorButton->init( tr("Default"), QColor(0,0,0,255), QColor(0,0,0,255) );
 
-		textInsertFieldCombo->setName( tr("Insert Field") );
+        options = new FieldButtons();
+        horizontalLayout_4->insertWidget(0, options);
+        connect(options, SIGNAL(keySelected(QString)), this, SLOT(onTextInsertFieldKeySelected(QString)));
+        //textInsertFieldCombo->setName( tr("Insert Field") );
 		barcodeInsertFieldCombo->setName( tr("Insert Field") );
 		imageFieldCombo->setName( tr("Key") );
 
@@ -506,7 +509,8 @@ namespace glabels
 			QStringList keys = mModel->merge()->keys();
 			lineColorButton->setKeys( keys );
 			fillColorButton->setKeys( keys );
-			textInsertFieldCombo->setKeys( keys );
+            //textInsertFieldCombo->setKeys( keys );
+            options->setKeys( keys );
 			barcodeInsertFieldCombo->setKeys( keys );
 			imageFieldCombo->setKeys( keys );
 			shadowColorButton->setKeys( keys );
