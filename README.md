@@ -1,4 +1,6 @@
 ![gLabels Label Designer](glabels/images/glabels-label-designer.png)
+![gLabels Label Designer](glabels/images/glabels-label-designer.png)
+![gLabels Label Designer](glabels/images/glabels-label-designer.png)
 
 ![Cover Image](docs/images/cover-image.png)
 
